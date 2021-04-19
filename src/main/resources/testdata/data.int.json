@@ -1,0 +1,16 @@
+{
+  "testdata": {
+    "pamper": {
+      "name": "Pamper Treats"
+    },
+    "birthday" : {
+      "name" : "Happy Birthday"
+    },
+    "adventure" : {
+      "name" : "Adventure Escape"
+    },
+    "getaway" : {
+      "name" : "2 Night Gourmet Getaway"
+    }
+  }
+}
